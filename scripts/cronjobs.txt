@@ -1,0 +1,2 @@
+*/2 * * * * /home/it21204/connections.sh >> /home/it21204/Documents/connections.log
+
